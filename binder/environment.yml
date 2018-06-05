@@ -1,15 +1,8 @@
 channels:
 - conda-forge
 dependencies:
-- jupyterlab=0.32.1
-- nbconvert=5.3
-- bqplot=0.10
-- matplotlib=2.1
 - pandas=0.20
-- python=3.6
-- pyyaml
-- invoke=0.21
-- ta-lib
+- numpy
 - pip:
   - nsepy==0.6
   - setuptools==39.2.0
