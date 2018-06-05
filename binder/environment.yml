@@ -9,8 +9,9 @@ dependencies:
 - python=3.6
 - pyyaml
 - invoke=0.21
+- ta-lib
 - pip:
   - nsepy==0.6
   - setuptools==39.2.0
-  - TA-Lib==0.4.17 
+
   
